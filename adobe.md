@@ -1,4 +1,4 @@
-[home](/)
+[home](./)
 ## Adobe Premiere Elements Fixed
 
 How to get:  
