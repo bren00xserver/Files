@@ -1,0 +1,40 @@
+/***************************
+Site: Coming soon
+Creator: BrenIsDank
+Version: 1.0.0
+Uses: bootswatch
+URL: https://bootswatch.com/cyborg/bootstrap.min.css
+***************************/
+@include url("https://bootswatch.com/cyborg/bootstrap.min.css");
+.modal-dialog{
+  z-index:99999;
+}
+
+#rightpane{
+  display:none;
+}
+
+#chatheader, #videowrap-header, #userlist, #messagebuffer, #plmeta {
+  background-color: rgba(255, 255, 255, 0) !important;
+  color: white !important;
+}
+
+#chatheader, #videowrap-header {
+  border: 0px solid #ccc;
+  border-bottom-width: 0;
+  border-radius: 5px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+#leftcontrols{
+  display:none;
+}
+
+.col-md-6 {
+  width: 100%;
+}
+
+.navbar {
+  border-radius: 0px;
+}
