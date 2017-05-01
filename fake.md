@@ -1,3 +1,8 @@
+#Fake News!!!
+you have been warned!!
+originaly by [@DillanCodez](https://twitter.com/DillanCodez)
+original post link: [https://hackmd.io/s/ryaUGHtCe](https://hackmd.io/s/ryaUGHtCe)
+
 Hello people of the jailbreak community. I am going to expose [@coffeebreakerz](https://twitter.com/coffeebreakerz)! Also, some bonuses, [@JosephShenton](https://twitter.com/JosephShenton), and [@hollr2099](https://twitter.com/hollr2099)! All of the people I'm about to expose have blocked me on twitter, along with their friends, so please tweet this at them. Let's begin.
 
 
