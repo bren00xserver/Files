@@ -5,3 +5,5 @@
 [Adobe Premiere Elements ***Fixed***](adobe.html)   
 [qemu {Bootloader}](https://qemu.weilnetz.de/)   
 [nasm ***For MEMZ***](http://www.nasm.us/pub/nasm/releasebuilds/?C=M;O=D)   
+## WordPress
+     wget https://github.com/danielmiessler/SecLists/blob/master/Passwords/10_million_password_list_top_10000.txt
