@@ -10,3 +10,7 @@
 Run attack
 
      wpscan –url localhost –wordlist ~/10_million_password_list_top_10000.txt –user admin
+
+
+#IPLIST $ HACK
+[https://goo.gl/6cOhCY](https://goo.gl/6cOhCY)
