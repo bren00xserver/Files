@@ -14,3 +14,6 @@ Run attack
 
 #IPLIST $ HACK
 [https://goo.gl/6cOhCY](https://goo.gl/6cOhCY)
+run command
+
+     for i in `cat ips.txt`; do whois $i >> out.ips; done
