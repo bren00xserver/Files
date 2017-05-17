@@ -11283,7 +11283,7 @@ last-modified:  2013-02-18T14:06:59Z
 source:         RIPE
 
 role:           HanseNet Network Operators
-address:        Telefónica Germany GmbH & Co. OHG
+address:        TelefÃ³nica Germany GmbH & Co. OHG
 address:        Ueberseering 33a
 address:        D-22297 Hamburg
 abuse-mailbox:  abuse.de@telefonica.com
@@ -11297,7 +11297,7 @@ last-modified:  2016-03-08T11:04:52Z
 source:         RIPE # Filtered
 
 role:           HanseNet IP Coordination
-address:        Telefónica Germany GmbH & Co. OHG
+address:        TelefÃ³nica Germany GmbH & Co. OHG
 address:        Ueberseering 33 A
 address:        22297 Hamburg
 address:        DE
